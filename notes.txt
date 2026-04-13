@@ -1,0 +1,6 @@
+ - there's only one instance of the debug v2 api - as it was not clear from specification...
+ - there's no monitoring
+ - everything else should run as requested:
+    - make start-project
+    - make test will run the run_tests.sh script
+    - make stop-project
